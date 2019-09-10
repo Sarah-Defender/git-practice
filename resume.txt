@@ -1,3 +1,4 @@
 name:kunhka
 occupation:admiral
 objective: to be admired and remembered for good things
+preferred rate: enough 
